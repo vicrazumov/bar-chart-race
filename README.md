@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vicrazumov/bar-chart-race) 
+
 # Bar Chart Race
 
 ![Urban population chart - The World Bank data](https://github.com/vicrazumov/bar-chart-race/raw/master/example/example.gif "Urban population chart")
